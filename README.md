@@ -6,6 +6,10 @@ gnuplot example
 	cmake ..
 	make
 	./gnuplot_example
+	
+Windows version
+============
+	git checkout windows_version
 
 
 
