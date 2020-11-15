@@ -1,3 +1,8 @@
+install gnuplot
+============
+	sudo apt-get update
+	sudo apt-get install gnuplot
+	
 gnuplot example
 ============
 
